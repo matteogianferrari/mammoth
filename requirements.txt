@@ -10,3 +10,5 @@ ftfy
 regex
 pyyaml
 snntorch
+googledrivedownloader==0.4
+pandas
